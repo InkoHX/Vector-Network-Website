@@ -7,7 +7,6 @@ Minecraft Bedrock Edition server
 
 ## このサーバーの特徴
 1. プログラムが[GitHub](https://github.com/InkoHX/Vector-Network-Project)に公開されている。
-1. 配布プラグインをほとんど使っていない
 
 ## Developers
 **InkoHX**  
