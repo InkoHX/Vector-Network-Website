@@ -1,7 +1,7 @@
 # Vector Network Project
 IP: play.inkohx.xyz  
 PORT: 19132  
-[遊び方](vnp.inkohx.xyz/play)
+[遊び方](https://vnp.inkohx.xyz/play)
 
 Minecraft Bedrock Edition server
 
