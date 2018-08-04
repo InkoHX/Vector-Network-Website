@@ -21,3 +21,4 @@ none
 
 ## その他
 [ルール](https://vnp.inkohx.xyz/rules)  
+[ヘルプ](https://vnp.inkohx.xyz/help)
