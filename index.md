@@ -10,8 +10,8 @@ Minecraft Bedrock Edition server
 
 ## Developers
 **InkoHX**  
-**MazaiCrafty**
-**DusKong**
+**MazaiCrafty**  
+**DusKong**  
 **yuko fuyutsuki**
 
 ## Administrator
