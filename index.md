@@ -11,6 +11,8 @@ Minecraft Bedrock Edition server
 ## Developers
 **InkoHX**  
 **MazaiCrafty**
+**DusKong**
+**yuko fuyutsuki**
 
 ## Administrator
 **InkoHX**  
