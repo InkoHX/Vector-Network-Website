@@ -1,4 +1,17 @@
-TEST
-TEST
-TEST
-TEST
+追加
+1. /gamestatus が追加されました。
+2. SpeedCorePvPでSCP STATUS看板を触るとゲームのステータスを確認出来るようになりました。
+3. 更新内容が表示されるように(これの事)
+
+変更内容というかほぼお知らせみたいな感じになります。
+新しくプロジェクトに入った開発者さんです。
+・yuko fuyutsuki
+・DusKong
+・UramnOIL
+現在のメンバーは
+1. InkoHX
+2. MazaiCrafty
+3. yuko fuyutsuki
+4. DusKong
+5. UramnOIL
+です！！
