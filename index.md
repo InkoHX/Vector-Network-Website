@@ -26,4 +26,4 @@ none
 [ルール](https://vnp.inkohx.xyz/rules)  
 [ヘルプ](https://vnp.inkohx.xyz/help)  
 [Discord](https://hxbot.tk/VNP-D)  
-[Lobi](https://hxbot/VNP-L)
+[Lobi](https://hxbot.tk/VNP-L)
